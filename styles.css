@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+.wrapper{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    min-width: 300px;
+    text-align: center;
+    color:white;
+}
+
+.search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search button{
+    background-color: #4caf50;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.search input{
+    padding: 8px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.wrapper h1{
+    font-family:cursive;
+}
+
+#search-btn{
+    margin-top: 10px;
+}
+
+#events-list{
+    margin-top: 10px;
+}
+

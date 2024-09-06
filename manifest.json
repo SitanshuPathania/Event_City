@@ -1,0 +1,15 @@
+{
+    "name":"Event City",
+    "description":"Get all the updates of upcoming events in your city",
+    "author":"Sitanshu Pathania",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Event City",
+        "default_icon":"icon.png"
+    },
+    "icons":{
+        "128":"icon.png"
+    }
+}
